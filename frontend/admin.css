@@ -144,6 +144,7 @@ body {
 }
 
 .campo-numero {
+  appearance: textfield;
   -moz-appearance: textfield;
 }
 
